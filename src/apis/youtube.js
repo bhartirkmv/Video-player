@@ -2,7 +2,6 @@
 import axios from 'axios';
 // Capitalized variables means that this is a constant value 
 // and should not be changed unless stated otherwise.
-const KEY = 'AIzaSyCVAl_mjvjAA3tQ_ZVYLhs3m2_LdfYGASI';
 
 
 
